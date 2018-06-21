@@ -1,2 +1,3 @@
 # MNIST-Image-Identification
-Deep learning approach to solve this classification problem of images of numbers
+Ipython notebooks of logistic regression model as well as deep learning approach using keras and tensorflow are in the repository. 
+
